@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>circle.png</file>
+        <file>pen.png</file>
+        <file>pickTool.png</file>
+        <file>rectangle.png</file>
+        <file>sPaint.jpg</file>
+        <file>back.png</file>
+        <file>blank_page.png</file>
+        <file>camera.png</file>
+        <file>circleEquation.png</file>
+        <file>clearSheet.png</file>
+        <file>colon.png</file>
+        <file>decimal.png</file>
+        <file>divide.png</file>
+        <file>eight.png</file>
+        <file>equal.png</file>
+        <file>five.png</file>
+        <file>four.png</file>
+        <file>function.png</file>
+        <file>group.png</file>
+        <file>line.png</file>
+        <file>minus.png</file>
+        <file>multiply.png</file>
+        <file>nine.png</file>
+        <file>one.png</file>
+        <file>open.png</file>
+        <file>page.png</file>
+        <file>plus.png</file>
+        <file>resize.png</file>
+        <file>root.png</file>
+        <file>save.png</file>
+        <file>seven.png</file>
+        <file>sigma.png</file>
+        <file>six.png</file>
+        <file>three.png</file>
+        <file>tools.png</file>
+        <file>triangle.png</file>
+        <file>trigonometryFunctions.png</file>
+        <file>trigonometryFunctions2.png</file>
+        <file>two.png</file>
+        <file>ungroup.png</file>
+        <file>zero.png</file>
+    </qresource>
+</RCC>
